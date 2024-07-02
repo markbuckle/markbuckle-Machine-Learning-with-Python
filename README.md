@@ -1,4 +1,4 @@
-First Machine Learning Project
+**First Machine Learning Project**
 
 Built with Python and Jupyter
 
