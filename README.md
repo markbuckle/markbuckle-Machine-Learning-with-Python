@@ -9,8 +9,8 @@
 _o	pip install jupyter_
 
 _o	pip install pandas_
-_
-o	 pip install scikit-learn_
+
+_o	 pip install scikit-learn_
 
 <h3>Steps:</h3>
 
