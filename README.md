@@ -6,9 +6,11 @@
 
 •	Ensure you have Jupyter, Anaconda, Scikit-Learn installed. You may need to use the following install prompts in your terminal:
 
-**o	pip install jupyter
-o	pip install pandas
-o	 pip install scikit-learn**
+_o	pip install jupyter_
+
+_o	pip install pandas_
+_
+o	 pip install scikit-learn_
 
 <h3>Steps:</h3>
 
